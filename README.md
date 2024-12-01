@@ -53,7 +53,7 @@ This dataset was created to develop a sound-to-onomatopoeia transcription model,
 | `class`                | Sound category.                                                                                     | `10`                      |
 | `id`                   | Sound clip index within the sound category.                                                         | `13`                      |
 | `candidate1_ko` ~ `candidate5_ko` | 1 to 5 onomatopoeic description candidates (Korean).                                               | `칭 칙 치 치 부 르 르 릉`  |
-| `candidate1_en` ~ `candidate5_en` | 1 to 5 onomatopoeic description candidates (English, converted to Latin alphabets using transliteration tools [2]). | `CHING CHIK CHI CHI BU REU REU REUNG` |
+| `candidate1_en` ~ `candidate5_en` | 1 to 5 onomatopoeic description candidates (English; converted to Latin alphabets using transliteration tools [2]). | `CHING CHIK CHI CHI BU REU REU REUNG` |
 
 ---
 
