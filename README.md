@@ -2,7 +2,8 @@
 
 The **Sound-to-Onomatopoeia Transcription Dataset** provides descriptive sentences using onomatopoeic expressions for each non-speech sound sample. Each sound sample is annotated by nine Korean listeners, capturing how the sounds are perceived by individuals. 
 
-This dataset was created to develop a sound-to-onomatopoeia transcription model, which automatically transcribes non-speech sounds into onomatopoeic descriptions, reflecting various nuances and feelings associated with these sounds. It can be utilized in a range of research and application fields, including:
+
+This dataset was created to develop a sound-to-onomatopoeia transcription model, which automatically *transcribes* non-speech sounds into onomatopoeic descriptions (similar to Speech Recognition!), capturing various aspects such as sound sources, temporal changes, nuances, and emotions in non-speech sounds. It can be utilized in a range of research and application fields, such as:
 - Non-speech sound captioning for accessibility
 - Textual sound effects
 - Sound retrieval
