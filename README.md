@@ -43,7 +43,7 @@ This dataset was created to develop a sound-to-onomatopoeia transcription model,
 | 24      | Car windows               | 49*     | Rock song                 |
 | 25      | Telephone ringing         | 50      | Door knocking             |
 
-- **Number of Samples:** During annotation, some annotations were missing due to problems with inaudible or low-volume sounds. To ensure each sample had the same number of annotated candidates, samples with missing annotations were removed from the dataset. As a results, a total of 7,962 samples were collected, each with five onomatopoeic expression candidate.
+- **Number of Samples:** During annotation, some annotations were missing due to problems with inaudible or low-volume sounds. To ensure each sample had the same number of annotated candidates, samples with missing annotations were removed from the dataset. As a results, a total of 7,962 samples were collected, each with five onomatopoeic expression candidates.
 
 - **Dataset Details**: Each row in the dataset csv file includes the following fields:
 
@@ -73,7 +73,7 @@ If you use the **Sound-to-Onomatopoeia Transcription Dataset** in your research,
 ---
 
 ## **Contact**
-For any questions about the dataset, please feel free to reach out:  
+If you have any questions about the dataset, please feel free to reach out:
 **JooYeong Kim**  
 **Email:** [scijspirit@gmail.com](mailto:scijspirit@gmail.com)
 
