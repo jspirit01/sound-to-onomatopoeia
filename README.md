@@ -61,7 +61,23 @@ This dataset was created to develop a sound-to-onomatopoeia transcription model,
 If you use the **Sound-to-Onomatopoeia Transcription Dataset** in your research, please cite the following paper:
 
 ```bibtex
-[bibtex here...]
+@inproceedings{10.1145/3706598.3713911,
+author = {Kim, JooYeong and Hong, Jin-Hyuk},
+title = {OnomaCap: Making Non-speech Sound Captions Accessible and Enjoyable through Onomatopoeic Sound Representation},
+year = {2025},
+isbn = {9798400713941},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3706598.3713911},
+doi = {10.1145/3706598.3713911},
+booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+articleno = {71},
+numpages = {22},
+keywords = {Non-speech sound captioning, Onomatopoeia transcription, Sound accessibility, Deaf and hard-of-hearing individuals},
+location = {
+},
+series = {CHI '25}
+}
 ```
 
 ---
